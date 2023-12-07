@@ -1,0 +1,49 @@
+button {
+    padding: 6% 12%;
+}
+
+.steinSaksPapirButton-Container {
+    margin-top: 10%;
+    width: 20%;
+    height: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    align-items: center;
+}
+
+.steinSaksPapirButton-Container {
+    margin-top: 5%;
+    width: 20%;
+    height: 3%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.steinSaksPapirButton-Content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.steinSaksPapirButtonChoices-Container {
+    margin-top: 10%;
+    width: 55%;
+    height: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.steinSaksPapirButton-Content {
+    display: flex;
+    margin-right: 10%;
+    align-items: center;
+    border: none;
+    background: none;
+}
+
+body {
+    background-image: url("bilde.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
